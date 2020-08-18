@@ -15,6 +15,9 @@
 - [Web Fundamentals on DevSite](https://github.com/google/WebFundamentals)
 
 - [100+ Free resources for learning Full Stack Web Development.](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+
+- [React JS - React Enlightenment](https://www.reactenlightenment.com/)
+
 ### Web Dev Other
 
 - [https://html.com/](https://html.com/)
@@ -103,6 +106,8 @@
 - [Build a Simple MVC App From Scratch in JavaScript](https://www.taniarascia.com/javascript-mvc-todo-app/)
 
 - [Developer Blogs to Follow (2019)](https://www.taniarascia.com/developer-blogs-to-follow-2019/)
+
+https://www.w3schools.com/react/default.asp
 
 [Frontend Developer](https://roadmap.sh/frontend/resources)
 ![Frontend Developer](https://roadmap.sh/roadmaps/frontend.png)
