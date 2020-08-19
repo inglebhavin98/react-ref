@@ -54,6 +54,8 @@
 
 - [How To Make Changes to the DOM](https://www.taniarascia.com/how-to-make-changes-to-the-dom/)
 
+- [Web Development Resources List](https://www.appbrewery.co/p/web-development-course-resources)
+
 <hr>
 
 **CSS**
