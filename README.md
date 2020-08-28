@@ -115,3 +115,16 @@ https://www.w3schools.com/react/default.asp
 ![Frontend Developer](https://roadmap.sh/roadmaps/frontend.png)
 [React Developer](https://medium.com/javarevisited/the-2019-react-js-developer-roadmap-9a8e290b8a56)
 ![React Roadmap - adam/golab](https://raw.githubusercontent.com/adam-golab/react-developer-roadmap/master/roadmap.png)
+
+
+#### React Cheatsheets
+
+- [Freecodecamp](https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/)
+- [reactcheatsheet.com/](https://reactcheatsheet.com/)
+- [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+- [React cheat sheet](http://www.developer-cheatsheets.com/react)
+- ![RCS](https://ihatetomatoes.net/wp-content/uploads/2017/01/react-cheat-sheet.pdf)
+- [React — A quick cheatsheet for beginners, with examples.](https://blog.usejournal.com/react-a-quick-cheatsheet-for-beginners-with-examples-b2b04a5ca571)
+- ![RSC](https://www.salesforce.com/content/dam/web/en_us/www/assets/pdf/datasheets/ms-react-js-cheatsheet-salesforce-argentina.pdf)
+- [React v16+ Cheat Sheet](https://medium.com/better-programming/this-react-cheat-sheet-includes-all-of-v16-63efc739ad88)
+- [Devhints.io](https://devhints.io/react)
